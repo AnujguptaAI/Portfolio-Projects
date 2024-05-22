@@ -8,13 +8,18 @@ overall workforce well-being.
 
 ![](https://www.shutterstock.com/image-vector/vector-illustration-people-working-office-600nw-251290072.jpg)
 
+
+
 ### The requirements set by the HR team to the Data Analyst team is as follows:
 1) Provide a list of low absenteeism and helathy individuals for our healthy bonus program - Total Budget **$1000**.
 2) Calculate the wage increase or annual compensation of non-smokers - Insurance Budget for all non-smokers - **$983,221**.
 3) Create a dashboard for HR to understand the absenteeism at work based on approved wireframe.
+   
 
-### Dataset was extracted from their local DB and consist of the following files:-
-1) Absenteeism_at_work - 
+   
+
+### The dataset was extracted from their local database and comprises the following files:-
+#### 1) Absenteeism_at_work - 
 + ID - Employee ID
 + Reason for absence - Reason ID
 + Month of absence,
@@ -37,15 +42,17 @@ overall workforce well-being.
 + Body mass index,
 + Absenteeism time in hours
 
-2) Compensation 
+#### 2) Compensation 
 + ID - Employee ID (Primary Key)
 + Com/hr - Compensation per hour
 
-3) Reason
+#### 3) Reason
 + Number - Reason ID (Primary Key)
 + Reason - Description of Reason
+  
 
 
 
 ### Data Analysis Project Pipeline
+
 ![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/Screenshot%202024-05-15%20234140%20copy.png)
