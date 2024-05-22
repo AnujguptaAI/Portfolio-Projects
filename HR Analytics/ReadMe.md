@@ -6,9 +6,11 @@ head office. With plans to introduce a bonus program and allocate a health insur
 clear criteria for bonus distribution. Additionally, they seek to understand the underlying causes and trends in absenteeism to make informed decisions and improve 
 overall workforce well-being.
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fhr-employee-care-support-professional-growth-1562208520&psig=AOvVaw0SG1G4hkMuEiZWZSuYhO0n&ust=1716439259354000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiqj9W4oIYDFQAAAAAdAAAAABAE)
+
 ### The requirements set by the HR team to the Data Analyst team is as follows:
 1) Provide a list of low absenteeism and helathy individuals for our healthy bonus program - Total Budget **$1000**.
-2) Calculate the wage increase or annual compensation of non-smokers - Insurance Budget for all non-smokers - $983,221.
+2) Calculate the wage increase or annual compensation of non-smokers - Insurance Budget for all non-smokers - **$983,221**.
 3) Create a dashboard for HR to understand the absenteeism at work based on approved wireframe.
 
 ### Dataset was extracted from their local DB and consist of the following files:-
