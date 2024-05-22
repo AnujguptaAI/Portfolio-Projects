@@ -1,17 +1,17 @@
-# ReadMe
-## Description
+ReadMe
+Description
 
 The HR department of **QuantifyTech** approached a data analytics firm to gain comprehensive insights into employee attendance patterns over a specified period at their 
 head office. With plans to introduce a bonus program and allocate a health insurance budget for their consistently healthy employees, the HR team aims to establish 
 clear criteria for bonus distribution. Additionally, they seek to understand the underlying causes and trends in absenteeism to make informed decisions and improve 
 overall workforce well-being.
 
-### The requirements set by the HR team to the Data Analyst team is as follows:
+The requirements set by the HR team to the Data Analyst team is as follows:
 1) Provide a list of low absenteeism and helathy individuals for our healthy bonus program - Total Budget **$1000**.
 2) Calculate the wage increase or annual compensation of non-smokers - Insurance Budget for all non-smokers - $983,221.
 3) Create a dashboard for HR to understand the absenteeism at work based on approved wireframe.
 
-### Dataset was extracted from their local DB and consist of the following files:-
+Dataset was extracted from their local DB and consist of the following files:-
 1) Absenteeism_at_work - 
   a) ID - Employee ID
   b) Reason for absence - Reason ID
@@ -45,4 +45,4 @@ overall workforce well-being.
 
 
 
-### Data Analysis Project Pipeline
+Data Analysis Project Pipeline
