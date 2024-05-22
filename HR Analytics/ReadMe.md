@@ -15,8 +15,8 @@ overall workforce well-being.
 
 ### Dataset was extracted from their local DB and consist of the following files:-
 1) Absenteeism_at_work - 
-  a) ID - Employee ID
-  b) Reason for absence - Reason ID
+  -a) ID - Employee ID
+  -b) Reason for absence - Reason ID
   c) Month of absence,
   d) Day of the week,
   e) Seasons,
