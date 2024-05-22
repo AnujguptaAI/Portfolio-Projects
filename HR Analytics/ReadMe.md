@@ -48,4 +48,4 @@ overall workforce well-being.
 
 
 ### Data Analysis Project Pipeline
-![](https://drive.google.com/file/d/1lVI64lpcP2k6ZH-C4l84nGAgFSiRHsTj/view?usp=drive_link)
+![](https://drive.google.com/file/d/1lVI64lpcP2k6ZH-C4l84nGAgFSiRHsTj/view?usp=drive_link/Screenshot 2024-05-15 234140 copy.png)
