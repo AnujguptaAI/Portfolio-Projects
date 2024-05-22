@@ -6,7 +6,7 @@ head office. With plans to introduce a bonus program and allocate a health insur
 clear criteria for bonus distribution. Additionally, they seek to understand the underlying causes and trends in absenteeism to make informed decisions and improve 
 overall workforce well-being.
 
-![](https://www.shutterstock.com/shutterstock/photos/1562208520/display_1500/stock-vector-hr-employee-care-support-of-professional-growth-vector-illustration-for-web-banner-infographics-1562208520.jpg)
+![](https://www.shutterstock.com/image-vector/vector-illustration-people-working-office-600nw-251290072.jpg)
 
 ### The requirements set by the HR team to the Data Analyst team is as follows:
 1) Provide a list of low absenteeism and helathy individuals for our healthy bonus program - Total Budget **$1000**.
