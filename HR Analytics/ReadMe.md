@@ -17,33 +17,33 @@ overall workforce well-being.
 1) Absenteeism_at_work - 
 + a) ID - Employee ID
 + b) Reason for absence - Reason ID
-  c) Month of absence,
-  d) Day of the week,
-  e) Seasons,
-  f) Transportation expense - Transportation expense to commute everyday from home to office.
-  g) Distance from Residence to Work,
-  h) Service time - Service Time in years in same organisation
-  i) Age,
-  j) Work load Average/day ,
-  k) Hit target,
-  l) Disciplinary failure,
-  m) Education,
-  o) Son,
-  p) Social drinker - boolean variable - True\false
-  q) Social smoker - boolean variable - True\false
-  r) Pet,
-  s) Weight,
-  t) Height,
-  u) Body mass index,
-  v) Absenteeism time in hours
++  c) Month of absence,
++ d) Day of the week,
++  e) Seasons,
++  f) Transportation expense - Transportation expense to commute everyday from home to office.
++  g) Distance from Residence to Work,
++  h) Service time - Service Time in years in same organisation
++  i) Age,
++  j) Work load Average/day ,
++  k) Hit target,
++  l) Disciplinary failure,
++  m) Education,
++  o) Son,
++  p) Social drinker - boolean variable - True\false
++  q) Social smoker - boolean variable - True\false
++  r) Pet,
++  s) Weight,
++  t) Height,
++  u) Body mass index,
++  v) Absenteeism time in hours
 
 2) Compensation 
-  a) ID - Employee ID (Primary Key)
-  b) Com/hr - Compensation per hour
++  a) ID - Employee ID (Primary Key)
++  b) Com/hr - Compensation per hour
 
 3) Reason
-  a) Number - Reason ID (Primary Key)
-  b) Reason - Description of Reason
++  a) Number - Reason ID (Primary Key)
++  b) Reason - Description of Reason
 
 
 
