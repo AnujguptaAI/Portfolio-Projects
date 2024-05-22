@@ -61,3 +61,16 @@ overall workforce well-being.
 ### Report
 
 ![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/HR%20Analytics%20Dashborad_page-0001.jpg)
+
+
+### Conclusion
++ As per the scatter plot it can be concluded that the employees with higher work load had the lower average absebteeism time as compared to the employees with lower work load. This reflect the work load affects absenteeism.
+
++ Spring accounts to most Absentee hours.
+  
++ July had the highest average absenteeism time of 10.96 hours whereas February had the lowest Absenteeism time of 4.08 Hours.
+
++ Summer season seem to have higher average Absenteeism time.
+
++ The tendency of employees to take a leave is highest on Monday and gradually decreases throughout the days of the week.
+ 
