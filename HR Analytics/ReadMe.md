@@ -60,7 +60,7 @@ overall workforce well-being.
 
 ### Report
 
-![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/HR%20Analytics%20Dashborad%20corrected_page-0001.jpg)
+![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/HR%20Analytics%20Dashborad.jpg)
 
 
 ### Conclusion
