@@ -10,7 +10,7 @@ ATLIQ Hardware is a leading supplier of computer hardware and peripherals, servi
 
 
 ## Data Pipeline
-![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/Atliq%20Sales%20Analytics/data%20Analysis%20pipeline.png)
+![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/Atliq%20Sales%20Analytics/Data%20analysis%20pipeline.png)
 
 ## Report
 ![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/Atliq%20Sales%20Analytics/sales%20dashboard%20powerbi%20page%201.jpg)
