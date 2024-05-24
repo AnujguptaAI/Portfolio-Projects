@@ -16,5 +16,11 @@ ATLIQ Hardware is a leading supplier of computer hardware and peripherals, servi
 ![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/Atliq%20Sales%20Analytics/sales%20dashboard%20powerbi%20page%201.jpg)
 ![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/Atliq%20Sales%20Analytics/sales%20dashboard%20powerbi%20page%202.jpg)
 
+## Conclusion
++ Delhi being the head office generates most revenue followed by Mumbai and Ahmedabad and Electricalsara Store which is in Delhi is the topmost Customer generating over 40% of revenue.
++ While Delhi holds the top position for generating revenue, Surat is the topmost in providing highest profit margin followed by patna and bhubaneshwar.
++ North Zone contribute Highest in revenue followed by Central and south.
++ Kanpur is the high-revenue, low-margin region and it is driven by volume.
+
 
 
