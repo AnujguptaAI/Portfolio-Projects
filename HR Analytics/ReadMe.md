@@ -55,7 +55,7 @@ overall workforce well-being.
 
 ### Data Analysis Project Pipeline
 
-![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/Screenshot%202024-05-15%20234140%20copy.png)
+![](https://github.com/AnujguptaAI/Portfolio-Projects/blob/main/HR%20Analytics/Data%20Analysis%20Pipeline.png)
 
 
 ### Report
