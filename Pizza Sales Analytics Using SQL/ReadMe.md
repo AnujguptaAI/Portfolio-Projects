@@ -30,4 +30,4 @@ Slice Delight Pizzeria, established in 2010, has become a beloved staple in the 
 
 ## Questions 
 + Calculate the total revenue generated from pizza sales
-+ + USD 817860 $
+  + USD 817860 $
